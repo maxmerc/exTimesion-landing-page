@@ -1,7 +1,7 @@
 baseURL = 'https://maxmerc.github.io/exTimesion-landing-page/'
 title = "exTimesion"
-author = "Max Mercado, Andreq Zhen, Duriya Rehan, and Rayan Yu"
-copyright = "Max Mercado"
+author = "Max Mercado, Andrew Zhen, Duriya Rehan, and Rayan Yu"
+copyright = "Max Mercado, Andrew Zhen, Duriya Rehan, and Rayan Yu"
 
 timeZone = 'Europe/London'
 
